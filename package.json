@@ -13,7 +13,8 @@
     "postcss": "^8",
     "postcss-loader": "^4.1.0",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat",
-    "vue": "^3.0.0"
+    "vue": "^3.0.0",
+    "vue-material-design-icons": "^4.11.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",

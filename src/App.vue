@@ -1,14 +1,17 @@
 <template>
-  <HelloWorld msg="Todo Today's"/>
+  <Home msg="Todo Today's"/>
 </template>
 
 <script>
-import HelloWorld from './components/Home.vue'
+
+import Home from './components/Home.vue'
+
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    Home,
+  
   }
 }
 </script>
